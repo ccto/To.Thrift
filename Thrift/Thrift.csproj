@@ -97,9 +97,6 @@
     <Compile Include="Transport\TTransportFactory.cs" />
     <Compile Include="TSingletonProcessorFactory.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Server\Collections\" />
-    <Folder Include="Server\Protocol\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
